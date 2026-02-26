@@ -6,7 +6,7 @@
 
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
 
->> -> [[Study Material](#main-subjects)]
+>> -> [[Main Subject](#main-subjects)]
 >> -> [[Projects & Labs](#projects--labs)]
 >> -> [[Courses](#courses)]
 
@@ -31,7 +31,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
 # Projects & Labs
 
 | Topic | | Project | Year |
-|-------|-|---------|------|
+|------:|-|---------|------|
 | RTL Design |  |  |  |
 |  |1| [Implement_FFT_8point_on_FPGA](https://github.com/QuangHop-dev/Implement_FFT_8point_on_FPGA) | 2023 |
 |  |2| [Designing a simple 32-bit RISC-V processor](https://github.com/QuangHop-dev/RISC-V_Pipeline_32bit) | 2025 |
