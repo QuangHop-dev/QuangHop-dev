@@ -4,7 +4,7 @@
 
 # Hi, I'm Lucas (Phạm Quang Hợp) 👋
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phamquanghop/)
 
 >> -> [[Main Subject](#main-subjects)]  
 >> -> [[Projects & Labs](#projects--labs)]  
