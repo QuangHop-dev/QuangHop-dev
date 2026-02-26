@@ -1,16 +1,14 @@
-> "When a person dies, his deeds come to an end except for three things..."
->
-> — A meaningful quote here
+>> "Give it a bit more effort - for the life you want, people you hope to meet, the person you aim to be."
+>>
+>> — A meaningful quote here
 
----
+# Hi, I'm Lucas (Phạm Quang Hợp) 👋
 
-# Hi, I'm Lucas Pham 👋
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourlink)
-
-- [Study Material](#study-material)
-- [Projects & Labs](#projects--labs)
-- [Courses](#courses)
+>> -> [[Study Material](#study-material)]
+>> -> [[Projects & Labs](#projects--labs)]
+>> -> [[Courses](#courses)]
 
 ---
 
