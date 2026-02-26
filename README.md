@@ -1,16 +1,31 @@
-## Hi there 👋
+# Lucas Pham
 
-<!--
-**QuangHop-dev/QuangHop-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Digital IC Design Engineer (Aspiring)
 
-Here are some ideas to get you started:
+📍 Ho Chi Minh City, Vietnam  
+🎓 Electrical Engineering Student  
+📌 Interested in RTL Design, Physical Design, Verification  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research & Technical Interests
+- RTL Design (Verilog / SystemVerilog)
+- RISC-V Architecture
+- Physical Design Flow
+- ASIC Design Methodology
+
+---
+
+## 🛠 Tools & Technologies
+- Synopsys (DC, ICC2)
+- Cadence
+- ModelSim
+- Linux
+- Python / TCL
+
+---
+
+## 📂 Featured Projects
+- 32-bit RISC-V Processor
+- UART Controller (RTL + Testbench)
+- Simple SoC Integration
