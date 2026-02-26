@@ -8,7 +8,7 @@
 
 >> -> [[Main Subject](#main-subjects)]  
 >> -> [[Projects & Labs](#projects--labs)]  
->> -> [[Courses](#courses)]  
+>> -> [[Online Courses](#Online-Courses-by-Udemy-Platform)]  
 
 ---
 
