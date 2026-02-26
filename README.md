@@ -7,7 +7,9 @@
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
 
 >> -> [[Study Material](#study-material)]
+>> 
 >> -> [[Projects & Labs](#projects--labs)]
+>> 
 >> -> [[Courses](#courses)]
 
 ---
