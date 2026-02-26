@@ -7,36 +7,38 @@
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
 
 >> -> [[Study Material](#study-material)]
-
 >> -> [[Projects & Labs](#projects--labs)]
- 
 >> -> [[Courses](#courses)]
 
 ---
 
-# Study Material
+# Main Subject
 
-Here, I organize study resources related to Digital IC Design.
+Here, these are the main subjects organized according to the Digital/Analog IC Design track in my curriculum.
 
-1. Digital Logic Basics
-2. CMOS Fundamentals
-3. RTL Design (Verilog/SystemVerilog)
-4. FPGA Design Flow
-5. Static Timing Analysis
-6. Physical Design Basics
-7. Design Verification Fundamentals
+1. C Programing Language
+2. Digital Systems
+3. Basic Electronic
+4. Data Communication
+5. Computer Architecture
+6. Digital Signal Processing
+7. FPGA/ASIC Digital System Design
+8. VLSI Intergrated Circuit Design (CMOS)
+9. Hardware/Software Codesign
 
 ---
 
 # Projects & Labs
 
-| Topic | Project | Year |
-|-------|---------|------|
-| RTL Design | 32-bit RISC-V Processor | 2024 |
-| RTL Design | UART Controller (RTL + TB) | 2024 |
-| Verification | UVM Testbench for FIFO | 2024 |
-| FPGA | SPI Controller on FPGA | 2023 |
-| Physical Design | Simple Synthesis Flow (DC) | 2024 |
+| Topic | | Project | Year |
+|-------|-|---------|------|
+| RTL Design |  |  |  |
+|  |1| [Implement_FFT_8point_on_FPGA](https://github.com/QuangHop-dev/Implement_FFT_8point_on_FPGA) | 2023 |
+|  |2| [Designing a simple 32-bit RISC-V processor](https://github.com/QuangHop-dev/RISC-V_Pipeline_32bit) | 2025 |
+|  |3| [Designing a APB2UART Bridge](https://github.com/QuangHop-dev/APB-to-UART) | 2025 |
+| Verification | | |  |
+|  |1| SPI Controller on FPGA | 2023 | |
+| Physical Design | Simple Synthesis Flow (DC) | 2024 | |
 
 ---
 
