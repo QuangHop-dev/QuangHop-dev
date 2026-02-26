@@ -6,13 +6,13 @@
 
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/phamquanghop)
 
->> -> [[Study Material](#study-material)]
+>> -> [[Study Material](#main-subjects)]
 >> -> [[Projects & Labs](#projects--labs)]
 >> -> [[Courses](#courses)]
 
 ---
 
-# Main Subject
+# Main Subjects
 
 Here, these are the main subjects organized according to the Digital/Analog IC Design track in my curriculum.
 
@@ -36,9 +36,14 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
 |  |1| [Implement_FFT_8point_on_FPGA](https://github.com/QuangHop-dev/Implement_FFT_8point_on_FPGA) | 2023 |
 |  |2| [Designing a simple 32-bit RISC-V processor](https://github.com/QuangHop-dev/RISC-V_Pipeline_32bit) | 2025 |
 |  |3| [Designing a APB2UART Bridge](https://github.com/QuangHop-dev/APB-to-UART) | 2025 |
-| Verification | | |  |
-|  |1| SPI Controller on FPGA | 2023 | |
-| Physical Design | Simple Synthesis Flow (DC) | 2024 | |
+| Design Verification | | |  |
+|  |1| [Synchronous FIFO Design and Verification](https://github.com/QuangHop-dev/Sync_FIFO_Design-and-Verification) | 2023 | 
+|  |2| [Verification of AXI Slave Memory using UVM](https://github.com/QuangHop-dev/Verification_of_AXI-Memory_using_UVM) | 2026 |
+|  |3| [UART Design and Verification using UVM](https://github.com/QuangHop-dev/UART_Verification_using_UVM) | 2025 |
+| Analog Circuit Design | | | |
+|  |1| 1.6-GHz PLL design | 2024 | 
+| Custom IC Design and Layout | | | |
+|  |1| 8x8 SRAM 6T array design and layout | 2024 |
 
 ---
 
