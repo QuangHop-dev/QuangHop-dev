@@ -54,7 +54,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
 | Course | Year | Semester |
 |--------|------|----------|
 | Verification series (1-7) focusing in-depth on SV/UVM by Kumar Khandagle | 2026 | Spring |
-| ASIC Synthesis-STA-Physical Design(PD):Cadence+Synopsys flow by  | 2025 | Fall |
+| ASIC Synthesis-STA-Physical Design(PD):Cadence+Synopsys flow  | 2025 | Fall |
 | VSD - Static Timing Analysis Series (1-2) by Kunal Ghosh | 2026 | Spring |
 
 ---
