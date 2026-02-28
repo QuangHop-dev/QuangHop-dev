@@ -45,7 +45,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
   |  |5| [Verification of AXI Slave Memory using UVM](https://github.com/QuangHop-dev/Verification_of_AXI-Memory_using_UVM) | 2026 |
   |  |6| [UART Design and Verification using UVM](https://github.com/QuangHop-dev/UART_Verification_using_UVM) | 2025 |
   | Analog Circuit Design | | | |
-  |  |7| 1.6-GHz PLL design | 2024 | 
+  |  |7| [1.6-GHz PLL design](https://github.com/QuangHop-dev/Analog_Design_of_1.28-GHz_PLL_system) | 2024 | 
   | Custom IC Design and Layout | | | |
   |  |8| 8x8 SRAM 6T array design and layout | 2024 |
   
