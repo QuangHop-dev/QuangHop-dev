@@ -16,6 +16,7 @@
 
 Here, these are the main subjects organized according to the Digital/Analog IC Design track in my curriculum.
 <div align="center">
+  
   |Order| Course | Year | Semester |
   |---|--------|------|----------|
   |1| C Programing Language | 2022 | Fall |
@@ -27,12 +28,14 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
   |7| FPGA/ASIC Digital System Design | 2024 | Spring |
   |8| VLSI Intergrated Circuit Design (CMOS) | 2025 | Spring |
   |9| Hardware/Software Codesign | 2025 | Spring |
+  
 </div>
 
 ---
 
 # Projects & Labs
 <div align="center">
+  
   | Topic | | Project | Year |
   |------:|-|---------|------|
   | RTL Design |  |  |  |
@@ -47,15 +50,18 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
   |  |7| 1.6-GHz PLL design | 2024 | 
   | Custom IC Design and Layout | | | |
   |  |8| 8x8 SRAM 6T array design and layout | 2024 |
+  
 </div>
 ---
 
 # Online Courses by Udemy Platform
 <div align="center">
+  
   | Course | Year | Semester |
   |--------|------|----------|
   | Verification series (1-7) focusing in-depth on SV/UVM by Kumar Khandagle | 2026 | Spring |
   | ASIC Synthesis-STA-Physical Design(PD):Cadence+Synopsys flow  | 2025 | Fall |
   | VSD - Static Timing Analysis Series (1-2) by Kunal Ghosh | 2026 | Spring |
+  
 </div>
 ---
