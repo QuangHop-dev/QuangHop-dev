@@ -17,7 +17,7 @@
 Here, these are the main subjects organized according to the Digital/Analog IC Design track in my curriculum.
 
   |Order| Course | Year | Semester |
-  |---|--------|------|----------|
+  |:-:|--------|------|----------|
   |1| C Programing Language | 2022 | Fall |
   |2| Digital Systems  | 2023 | Spring |
   |3| Basic Electronic | 2023 | Fall |
@@ -35,7 +35,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
 # Projects & Labs
 
   | Topic | | Project | Year |
-  |------:|-|---------|------|
+  |------:|:-:|---------|------|
   | RTL Design |  |  |  |
   |  |1| [Implement_FFT_8point_on_FPGA](https://github.com/QuangHop-dev/Implement_FFT_8point_on_FPGA) | 2023 |
   |  |2| [Designing a simple 32-bit RISC-V processor](https://github.com/QuangHop-dev/RISC-V_Pipeline_32bit) | 2025 |
