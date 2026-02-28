@@ -47,7 +47,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
   | Analog Circuit Design | | | |
   |  |7| [1.6-GHz PLL design](https://github.com/QuangHop-dev/Analog_Design_of_1.28-GHz_PLL_system) | 2024 | 
   | Custom IC Design and Layout | | | |
-  |  |8| 8x8 SRAM 6T array design and layout | 2024 |
+  |  |8| [8x8 SRAM 6T array design and layout](https://github.com/QuangHop-dev/Design_and_Layout_of_an_8x8-SRAM-array) | 2024 |
   
 
 ---
