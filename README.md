@@ -40,6 +40,7 @@ Here, these are the main subjects organized according to the Digital/Analog IC D
   |  |1| [Implement_FFT_8point_on_FPGA](https://github.com/QuangHop-dev/Implement_FFT_8point_on_FPGA) | 2023 |
   |  |2| [Designing a simple 32-bit RISC-V processor](https://github.com/QuangHop-dev/RISC-V_Pipeline_32bit) | 2025 |
   |  |3| [Designing a APB2UART Bridge](https://github.com/QuangHop-dev/APB-to-UART) | 2025 |
+  |  |3| [Designing of HW for Accelerating the Kyber PQC Algorithm](https://github.com/QuangHop-dev/KYBER_on_RV64) | 2026 |
   | Design Verification | | |  |
   |  |4| [Synchronous FIFO Design and Verification](https://github.com/QuangHop-dev/Sync_FIFO_Design-and-Verification) | 2023 | 
   |  |5| [Verification of AXI Slave Memory using UVM](https://github.com/QuangHop-dev/Verification_of_AXI-Memory_using_UVM) | 2026 |
